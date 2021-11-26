@@ -1,2 +1,3 @@
 added new file in defect branch
-from master eof
+from master
+from master new line
