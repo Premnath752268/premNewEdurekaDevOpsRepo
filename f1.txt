@@ -1,3 +1,4 @@
 added new file in defect branch
+from master
 from master new line
 from feature1 branch
